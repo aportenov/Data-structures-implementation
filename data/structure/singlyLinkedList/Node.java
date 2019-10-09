@@ -1,6 +1,7 @@
-package singlyLinkedList;
+package data.structure.singlyLinkedList;
 
 class Node<T> {
+    
     Node<T> next;
     T data;
 

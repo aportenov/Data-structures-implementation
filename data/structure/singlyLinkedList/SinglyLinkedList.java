@@ -1,4 +1,4 @@
-package singlyLinkedList;
+package data.structure.singlyLinkedList;
 
 
 public class SinglyLinkedList {

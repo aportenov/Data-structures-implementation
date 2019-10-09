@@ -1,4 +1,4 @@
-package avlTree;
+package data.structure.avlTree;
 
 public class App {
 
